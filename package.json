@@ -1,0 +1,12 @@
+{
+  "name": "sona",
+  "version": "1.0.0",
+  "description": "Sona Discord Music Bot",
+  "main": "sona.js",
+  "scripts": {
+    "start": "node sona.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
